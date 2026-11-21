@@ -1,0 +1,11 @@
+{
+  "name": "Švýcar – turnaje jednotlivců",
+  "short_name": "Švýcar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#1f3a5f",
+  "lang": "cs",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
